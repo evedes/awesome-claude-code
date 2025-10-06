@@ -8,6 +8,12 @@ A curated list of awesome resources, by Edo.
 
 - [Anthropic Courses](https://anthropic.skilljar.com/)
 
+## Claude Docs
+
+- [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)
+- [Developer Guide](https://docs.claude.com/en/docs/intro)
+- [API Guide](https://docs.claude.com/en/api/overview)
+
 ### Anthropic Articles
 
 #### Claude Code
