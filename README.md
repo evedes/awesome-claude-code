@@ -18,6 +18,7 @@ A curated list of awesome resources, by Edo.
 
 #### Claude Code
 
+- [2025-10-20 - Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 - [2025-10-16 - Introducing Agent Skills](https://www.anthropic.com/news/skills)
 - [2025-09-29 - Enabling Claude Code to work more autonomously](https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously)
 - [2025-09-29 - Managing context on the Claude Developer Platform](https://www.anthropic.com/news/context-management)
